@@ -1,0 +1,31 @@
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <!-- URL Entry -->
+  <url>
+    <loc>https://kuwait-dyering.com/</loc>
+    <lastmod>2025-03-17</lastmod>
+
+    <!-- Image 1 -->
+    <image:image>
+      <image:loc>https://kuwait-dyering.com/images/poster-2.png</image:loc>
+      <image:caption>خدمات الصباغة والتشطيبات الداخلية والخارجية في الكويت بجودة عالية</image:caption>
+      <image:title>أفضل خدمات الدهانات والتشطيبات المنزلية في الكويت</image:title>
+    </image:image>
+
+    <!-- Image 2 -->
+    <image:image>
+      <image:loc>https://kuwait-dyering.com/images/poster-3.png</image:loc>
+      <image:caption>صباغ محترف يقدم أعمال دهانات وتشطيبات متقنة باستخدام أفضل الخامات</image:caption>
+      <image:title>خدمات دهان وتشطيبات احترافية في الكويت</image:title>
+    </image:image>
+
+    <!-- Image 3 -->
+    <image:image>
+      <image:loc>https://kuwait-dyering.com/images/poster-1.png</image:loc>
+      <image:caption>دهان متخصص في الكويت يقدم حلولاً متكاملة لدهانات الجدران والتشطيبات الداخلية</image:caption>
+      <image:title>دهانات عالية الجودة وتشطيبات عصرية في الكويت</image:title>
+    </image:image>
+  </url>
+
+</urlset>
